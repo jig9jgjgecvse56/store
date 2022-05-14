@@ -1,0 +1,22 @@
+{
+    "name": "store",
+    "description": "store",
+    "keywords": ["V2Ray"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "ac95717d-1f16-4fb1-b04a-52ded4e79c0a"
+        },
+        "AID": {
+            "description": "AlterID",
+            "value": "64"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://github.com/jig9jgjgecvse56/store/",
+    "repository": "https://github.com/jig9jgjgecvse56/store",
+    "stack": "container"
+}
